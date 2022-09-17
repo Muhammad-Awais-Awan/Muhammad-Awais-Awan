@@ -134,9 +134,5 @@
 </p>
 
 ## 🐛Github Magic Game
-<p align="center">
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.0.0-rc.2
-
-</p>
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 <br>
