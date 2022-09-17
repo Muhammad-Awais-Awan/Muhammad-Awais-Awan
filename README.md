@@ -42,17 +42,12 @@
 ## 🚀 Technologies and Tools
 
 <p > 
-  <a href="#">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a> &emsp;
-<a href="#">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</a> &emsp;
+
 <a href="#">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   </a> &emsp;
 <a href="#">
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white"/>
   </a> &emsp;
 <a href="#">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -60,8 +55,49 @@
  <a href="#">
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-61DBFB?style=for-the-badge&logo=TensorFlow&logoColor=orange"/>
   </a> &emsp;
+   <a href="#">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=python&logoColor=white"/>
+  </a> &emsp;
+<a href="#">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</a> &emsp;
 
 </p>
 </div>
 <div >
 <p > 
+ <a href="#">
+    <img alt="React" src="https://img.shields.io/badge/REACT JS-61DBFB?style=for-the-badge&logo=react&logoColor=white"/>
+  </a> &emsp; 
+  <a href="#">
+    <img alt="NEXT" src="https://img.shields.io/badge/NEXT JS-61DBFB?style=for-the-badge&logo=nextjs&logoColor=white"/>
+  </a> &emsp;
+ <a href="#">
+    <img alt="Redux" src="https://img.shields.io/badge/REDUX-6A0DAD?style=for-the-badge&logo=redux&logoColor=white"/>
+  </a> &emsp; 
+  <a href="#" target="_blank"> 
+    <img alt="THREE JS" src="https://img.shields.io/badge/THREE JS-68a063?style=for-the-badge&logo=threejs&logoColor=white" />
+  </a> &emsp;
+  <a href="#" target="_blank"> 
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30px"/>
+  </a> &emsp;
+ <a href="#" target="_blank"> 
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-61DBFB?style=for-the-badge&logo=Firebase&logoColor=white"/>
+  </a> &emsp;
+ <a href="#" target="_blank"> 
+    <img alt="MongoDb" src="https://img.shields.io/badge/MONGOdB-68a063?style=for-the-badge&logo=Mongodb&logoColor=white"/>
+  </a> &emsp;
+ 
+</p>
+</div>
+<div >
+<p > 
+
+ <a href="#" target="_blank"> 
+    <img alt="Blender" src="https://img.shields.io/badge/Blender-68a063?style=for-the-badge&logo=Blender&logoColor=white"/>
+  </a> &emsp;
+</p>
+</div>
+## 📈 Contribution Graph
+
+[![Shahzaneer Ahmed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Muhammad-Awais-Awan&theme=xcode)](https://github.com/Muhammad-Awais-Awan)
