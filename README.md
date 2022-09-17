@@ -134,5 +134,7 @@
 </p>
 
 ## 🐛Github Magic Game
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github.com/Muhammad-Awais-Awan/Muhammad-Awais-Awan/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 <br>
