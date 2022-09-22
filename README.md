@@ -138,3 +138,6 @@
   <img src="https://github.com/Muhammad-Awais-Awan/Muhammad-Awais-Awan/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Muhammad-Awais-Awan&color=blueviolet">
+</a>
